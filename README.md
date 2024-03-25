@@ -15,6 +15,9 @@
 
 
 ###
+<h2 align="left">Languages and Technologies </h2>
+<p align="left">Android,Flutter,KMP,Dart,Java,kotlin</p>
+###
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
