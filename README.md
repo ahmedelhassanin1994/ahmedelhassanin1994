@@ -11,11 +11,8 @@
 
 ###
 
-<p align="left">✨ Creating bugs since ...<br>📚 I'm currently learning ...<br>🎯 Goals: ...<br>🎲 Fun fact: ...</p>
+<p align="left">I'm a Flutter developer And Android Developer with a strong Interest In Mobile Application Development Projects That Require Both Conceptual And Analytical Thinking And Experience Of 5+ Years In Mobile Application Development Working As Full-Time/Part-time/Freelancer. Fully Committed to Develop Innovative Mobile Applications. I have Experience Working With Web Apps Using Flutter As Well As Mobile Apps. Always Eager to learn More And continuously Improve Myself.</p>
 
-###
-
-<h2 align="left">I code with</h2>
 
 ###
 
